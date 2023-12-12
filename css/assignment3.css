@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Header{
+    height: 150px;
+    background-color: aqua;
+}
+.body{
+    display: flex;
+}
+.MainContent{
+    height: 400px;
+    width:70%;
+    background-color: black;
+}
+.NavigationMenu{
+    height: 400px;
+    width: 30%;
+    background-color: blueviolet;
+}
+.AdditionalStuff{
+    height: 300px;
+    background-color: cornsilk;
+}
+.Footer{
+    height: 100px;
+    background-color: brown;
+}
